@@ -1,0 +1,6 @@
+Num_e=int(input())
+Num_h=int(input())
+Num_mo=float(input())
+Sa=(Num_h*Num_mo)
+print("NUMBER = "+str(Num_e))
+print("SALARY = U$ ""{:.2f}".format (Sa))
